@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Data Analyst Intern</h4>
+                <h5>Top Talent Bridge LLP</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Analysed candidate data and funnel metrics using Excel and basic SQL to understand conversion rates for roles in US and Canada. Built small dashboards that showed pipeline health so consultants could guide clients towards better-fit roles.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Research Analyst</h4>
+                <h5>Gautam Buddha University</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Built a Python pipeline that cleaned USS-21 survey responses and lifestyle variables, then trained stress-level classification models. Compared Logistic Regression, Random Forest, and SVM for an international conference paper.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Data Analyst Intern</h4>
+                <h5>Gaint Logistics</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Queried shipment and route data in SQL to flag delays, repeat issues, and high-cost lanes for the operations team. Created Excel and Power BI views summarising daily on-time rate, delay minutes, and volume by route on a single page.
             </p>
           </div>
         </div>
