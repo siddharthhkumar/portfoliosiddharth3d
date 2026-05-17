@@ -1,65 +1,63 @@
-# My Portfolio Website - Overview 🚀
+# Siddharth Kumar Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+A modern and responsive personal portfolio website built to showcase my projects, technical skills, certifications, achievements, and professional journey as a B.Tech Information Technology graduate focused on Data Analytics, AI tools, and digital solutions.
 
----
+## About The Project
 
-## ⚠️ Usage Notice
+This portfolio represents my work, experience, and technical background. It highlights my projects, internships, certifications, leadership roles, and areas of interest in technology and analytics.
 
-This project is shared for learning purposes only.
+The website is designed with a clean UI, responsive layout, and smooth user experience to create a professional online presence.
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+## Features
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+- Fully responsive modern design
+- Projects and internship showcase
+- Skills and certifications section
+- Leadership and extracurricular highlights
+- Contact and social media integration
+- Fast and optimized performance
+- Clean user interface with smooth navigation
 
-Build your own version — don’t just copy.
+## Tech Stack
 
-— Moncy Yohannan
+- Next.js
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vercel Deployment
 
----
+## Live Website
 
-## 🛠️ Instructions
+https://portfoliosiddharth3d-h8v8u6v9p-siddharthhkumars-projects.vercel.app/
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+## Installation and Setup
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+Clone the repository:
 
----
+```bash
+git clone <repository-link>
+```
 
-## ⚙️ Tech Stack
+Move into the project directory:
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+```bash
+cd portfolio
+```
 
----
+Install dependencies:
 
-## 🎨 Assets Usage
+```bash
+npm install
+```
 
-Some 3D assets included in this repository are free to use for learning purposes.
+Run the development server:
 
-However:
+```bash
+npm run dev
+```
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+## Deployment
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+The project is deployed using Vercel for fast and reliable hosting.
 
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+## Author
